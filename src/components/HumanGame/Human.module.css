@@ -1,0 +1,64 @@
+/* 
+
+
+
+.human {
+    width: 100px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.head {
+    width: 60px;
+    height: 60px;
+    background-color: #FFCC66;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+}
+
+.body {
+    width: 50px;
+    height: 120px;
+    background-color: #FFCC66;
+    position: absolute;
+    top: 80px;
+    left: 5px;
+}
+
+.arm {
+    width: 10px;
+    height: 80px;
+    background-color: #FFCC66;
+    position: absolute;
+    top: 100px;
+}
+
+.left-arm {
+    transform: rotate(45deg);
+    left: -15px;
+}
+
+.right-arm {
+    transform: rotate(-45deg);
+    right: 20px;
+}
+
+.leg {
+    width: 10px;
+    height: 80px;
+    background-color: #FFCC66;
+    position: absolute;
+    top: 180px;
+}
+
+.left-leg {
+    transform: rotate(45deg);
+    left: -15px;
+}
+
+.right-leg {
+    transform: rotate(-45deg);
+    right: 20px;
+} */
